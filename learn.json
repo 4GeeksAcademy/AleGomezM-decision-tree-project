@@ -9,6 +9,7 @@
 	"difficulty": "beginner",
 	"syntax": "python",
 	"duration" : 2,
+	"template_url": "https://github.com/4GeeksAcademy/machine-learning-python-template",
     "projectType": "project",
 	"description" : "Use decision tree algorithm to diagnose diabetes by using patients medical information from previous medical exams"
 }
