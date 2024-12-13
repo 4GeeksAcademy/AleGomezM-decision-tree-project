@@ -12,6 +12,5 @@
 	"autoPlay": "false",
 	"template_url": "https://github.com/4GeeksAcademy/machine-learning-python-template",
     "projectType": "project",
-	"autoPlay": "false",
 	"description" : "Use decision tree algorithm to diagnose diabetes by using patients medical information from previous medical exams"
 }
