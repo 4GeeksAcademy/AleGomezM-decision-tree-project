@@ -1,14 +1,25 @@
 {
 	"slug" : "decision-tree-project-tutorial",
-	"title" : "Decision Tree Project Tutorial",
+	"title" : {
+		"us":"Decision Tree Project Tutorial",
+		"es":"Tutorial del proyecto de árbol de decisión"
+	},
 	"preview": "https://github.com/4GeeksAcademy/decision-tree-project-tutorial/blob/main/preview.png?raw=true",
 	"solution": "https://github.com/4GeeksAcademy/decision-tree-project-tutorial/blob/main/solution.ipynb",
 	"status": "published",
 	"translations": ["us"],
-	"technologies": ["data-science", "machine-learning"],
+	"technologies": ["python", "pandas", "numpy", "matplotlib", "data-science", "machine-learning"],
 	"difficulty": "beginner",
 	"syntax": "python",
 	"duration" : 2,
+	"autoPlay": "false",
+	"template_url": "https://github.com/4GeeksAcademy/machine-learning-python-template",
     "projectType": "project",
-	"description" : "Use decision tree algorithm to diagnose diabetes by using patients medical information from previous medical exams"
+	"description" : {
+		"us":"Use the decision tree algorithm to diagnose diabetes using patients' medical information from previous exams. Preprocess the dataset, train the model, analyze the results, and optimize the model to make predictions about the presence of diabetes.",
+		"es":"Usa el algoritmo de árboles de decisión para diagnosticar la diabetes utilizando la información médica de los pacientes obtenida de exámenes previos. Preprocesa el conjunto de datos, entrena el modelo, analiza los resultados y optimiza el modelo para hacer predicciones sobre la presencia de diabetes."
+	},
+	"telemetry": {
+	    	"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=421"
+	  }
 }
